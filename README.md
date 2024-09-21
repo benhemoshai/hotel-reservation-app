@@ -1,6 +1,6 @@
 # Hotel App 🏨
 
-`hotel-reservation-app-shai.vercel.app`
+[Hotel App](hotel-reservation-app-shai.vercel.app)
 
 **Hotel App** is a web application built using Angular (18.2) and TypeScript to manage hotel rooms. This project implements CRUD operations—Create, Read, Update, and Delete—enabling users to effectively handle hotel data. The app features a responsive design made with Bootstrap and provides a user-friendly interface to view room data in a list format.
 
